@@ -5,6 +5,9 @@ using namespace std;
   YOU MAY FIX THIS ON YOUR OWN AHEAD OF PRACTICING WITH AI. OTHERWISE, USE THE BOARDPRINT ARRAYS TO HANDLE AI STUFF
   FOR NOW. IF YOU HAVE QUESTIONS, PING ME IN THE DISCORD SERVER
 */
+
+//test
+
 void boardPrinter(int board1[12][12], int board2[12][12]) {
 	for (int row = 0; row < 12; row++) {
 		for (int col = 0; col < 12; col++) {
